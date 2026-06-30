@@ -1,3 +1,11 @@
+
+
+
+https://github.com/user-attachments/assets/9881985a-4837-4634-a242-868c519210a3
+
+
+
+
 # MCP AI Travel Planner
 
 A Streamlit app that creates detailed travel itineraries using natural-language preferences, real-time tool integrations, and MCP servers.
@@ -93,6 +101,6 @@ Use this as the short repository description:
 - Improve fallback behavior when MCP tools are unavailable
 - Add region-specific budgeting and travel alerts
 
-## License
+[![License: MIT](https://shields.io)](https://opensource.org/licenses/MIT)
 
-Add your preferred license before publishing if you want others to reuse the project.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
