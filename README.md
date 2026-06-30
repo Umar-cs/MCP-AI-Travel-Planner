@@ -100,7 +100,3 @@ Use this as the short repository description:
 - Save and reload past trips
 - Improve fallback behavior when MCP tools are unavailable
 - Add region-specific budgeting and travel alerts
-
-[![License: MIT](https://shields.io)](https://opensource.org/licenses/MIT)
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
