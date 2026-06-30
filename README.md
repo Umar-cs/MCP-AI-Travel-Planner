@@ -4,8 +4,6 @@
 https://github.com/user-attachments/assets/9881985a-4837-4634-a242-868c519210a3
 
 
-
-
 # MCP AI Travel Planner
 
 A Streamlit app that creates detailed travel itineraries using natural-language preferences, real-time tool integrations, and MCP servers.
