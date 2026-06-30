@@ -63,7 +63,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Then open the local Streamlit URL and provide:
+Then open the local host Streamlit URL and provide:
 
 - `OpenRouter API Key`
 - `Google Maps API Key`
